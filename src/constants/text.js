@@ -1,0 +1,21 @@
+export const staticText = {
+    videoPicker: 'Video Picker',
+    mediaType: 'video',
+    mediaPath: 'images',
+    userCancelled: 'User cancelled',
+    error: 'Error',
+    userTapped: 'User tapped',
+    mpegFlag1: '-i',
+    fileFormat: 'file://',
+    mpegFlag2: '-c:v mpeg4',
+    fileNameStatic: 'file',
+    fileExtension: '.mp4',
+    videoPath: 'videoPath',
+    success: 'Success',
+    successText: 'Video successfully compressed and saved in async storage',
+    resizeMode: 'stretch',
+    loaderText: 'Compressing...',
+    loaderSize: 'large',
+    uploadVideo: 'Upload Video',
+    videoBtnColor: '#e93b4cff'
+}
